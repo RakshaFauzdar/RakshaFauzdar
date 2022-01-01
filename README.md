@@ -1,18 +1,24 @@
-<h1 align="center">
+ <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Raksha+Fauzdar...;Nice+to+meet+you!&center=true&size=30">
   </a>
+  
 </h1>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RakshaFauzdar.RakshaFauzdar">
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br>
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raksha-fauzdar-68a735192/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rakshafauzdar.github.io/Personal-Portfolio/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/raksha_fauzdar)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/raksha_fauzdar_23/)
-
-<p align="center">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<br>
+<br>
+<p align="left">
   Hi, I'm Raksha Fauzdar
   <br>
   <br>
@@ -26,6 +32,8 @@
   <br>
   📫 How to reach me: <a href="mailto: raksha.btech.cs19@iiitranchi.ac.in">raksha.btech.cs19@iiitranchi.ac.in</a>
 </p>
+<br>
+<br>
 
 ### - Languages and Tools...
 
@@ -48,6 +56,20 @@
   
   
 </p>
+<br>
+
+  
+ <img align ="right" width="200" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakshaFauzdar&show_icons=true&theme=chartreuse-dark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakshaFauzdar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 
 
 
