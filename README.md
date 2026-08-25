@@ -30,7 +30,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/RakshaFauzdar/RakshaFauzdar/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: raksha.btech.cs19@iiitranchi.ac.in">raksha.btech.cs19@iiitranchi.ac.in</a>
+  📫 How to reach me: <a href="mailto: raksha.fauzdar@gmail.com">raksha.fauzdar@gmail.com</a>
 </p>
 <br>
 <br>
